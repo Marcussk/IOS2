@@ -1,0 +1,240 @@
+1: serf: 1: started
+2: serf: 1: waiting for boarding: 0: 1
+3: serf: 2: started
+4: serf: 2: waiting for boarding: 0: 2
+5: hacker: 1: started
+6: hacker: 1: waiting for boarding: 1: 2
+7: hacker: 2: started
+8: hacker: 2: waiting for boarding: 2: 2
+9: serf: 1: boarding: 0: 0
+10: hacker: 1: boarding: 0: 0
+11: serf: 3: started
+12: serf: 2: boarding: 0: 0
+13: hacker: 2: boarding: 0: 0
+14: hacker: 1: member
+15: serf: 2: member
+16: hacker: 2: captain
+17: serf: 1: member
+18: hacker: 1: landing: 0: 0
+19: serf: 4: started
+20: hacker: 3: started
+21: hacker: 5: started
+22: serf: 2: landing: 0: 0
+23: hacker: 4: started
+24: serf: 1: landing: 0: 0
+25: hacker: 2: landing: 0: 0
+26: serf: 3: waiting for boarding: 0: 1
+27: serf: 5: started
+28: serf: 4: waiting for boarding: 0: 2
+29: hacker: 6: started
+30: hacker: 3: waiting for boarding: 1: 2
+31: hacker: 5: waiting for boarding: 2: 2
+32: hacker: 5: boarding: 0: 0
+33: hacker: 3: boarding: 0: 0
+34: hacker: 7: started
+35: serf: 4: boarding: 0: 0
+36: serf: 6: started
+37: serf: 3: boarding: 0: 0
+38: serf: 3: member
+39: hacker: 3: member
+40: hacker: 8: started
+41: serf: 7: started
+42: serf: 4: member
+43: hacker: 5: captain
+44: hacker: 5: landing: 0: 0
+45: serf: 3: landing: 0: 0
+46: serf: 8: started
+47: hacker: 3: landing: 0: 0
+48: hacker: 9: started
+49: serf: 4: landing: 0: 0
+50: hacker: 4: waiting for boarding: 1: 0
+51: serf: 5: waiting for boarding: 1: 1
+52: hacker: 10: started
+53: hacker: 6: waiting for boarding: 2: 1
+54: serf: 9: started
+55: hacker: 7: waiting for boarding: 3: 1
+56: serf: 6: waiting for boarding: 3: 2
+57: serf: 6: boarding: 1: 0
+58: hacker: 4: boarding: 1: 0
+59: serf: 5: boarding: 1: 0
+60: hacker: 6: boarding: 1: 0
+61: hacker: 6: member
+62: serf: 6: captain
+63: hacker: 4: member
+64: serf: 5: member
+65: serf: 6: landing: 1: 0
+66: serf: 10: started
+67: serf: 11: started
+68: hacker: 6: landing: 1: 0
+69: hacker: 4: landing: 1: 0
+70: serf: 5: landing: 1: 0
+71: hacker: 11: started
+72: hacker: 8: waiting for boarding: 2: 0
+73: hacker: 12: started
+74: serf: 7: waiting for boarding: 2: 1
+75: hacker: 13: started
+76: serf: 12: started
+77: serf: 13: started
+78: serf: 8: waiting for boarding: 2: 2
+79: serf: 7: boarding: 0: 0
+80: hacker: 7: boarding: 0: 0
+81: hacker: 14: started
+82: serf: 8: boarding: 0: 0
+83: hacker: 8: boarding: 0: 0
+84: serf: 8: captain
+85: hacker: 8: member
+86: hacker: 7: member
+87: serf: 7: member
+88: serf: 7: landing: 0: 0
+89: hacker: 15: started
+90: hacker: 16: started
+91: hacker: 17: started
+92: serf: 8: landing: 0: 0
+93: hacker: 7: landing: 0: 0
+94: serf: 14: started
+95: serf: 15: started
+96: hacker: 8: landing: 0: 0
+97: serf: 16: started
+98: hacker: 18: started
+99: hacker: 9: waiting for boarding: 1: 0
+100: hacker: 10: waiting for boarding: 2: 0
+101: serf: 9: waiting for boarding: 2: 1
+102: serf: 10: waiting for boarding: 2: 2
+103: serf: 10: boarding: 0: 0
+104: hacker: 10: boarding: 0: 0
+105: serf: 9: boarding: 0: 0
+106: hacker: 19: started
+107: hacker: 9: boarding: 0: 0
+108: hacker: 9: member
+109: serf: 17: started
+110: serf: 10: captain
+111: hacker: 10: member
+112: serf: 9: member
+113: serf: 10: landing: 0: 0
+114: hacker: 9: landing: 0: 0
+115: hacker: 20: started
+116: serf: 9: landing: 0: 0
+117: hacker: 10: landing: 0: 0
+118: serf: 18: started
+119: serf: 11: waiting for boarding: 0: 1
+120: hacker: 11: waiting for boarding: 1: 1
+121: hacker: 12: waiting for boarding: 2: 1
+122: serf: 19: started
+123: hacker: 13: waiting for boarding: 3: 1
+124: serf: 12: waiting for boarding: 3: 2
+125: serf: 12: boarding: 1: 0
+126: hacker: 11: boarding: 1: 0
+127: hacker: 12: boarding: 1: 0
+128: serf: 11: boarding: 1: 0
+129: serf: 11: member
+130: serf: 12: captain
+131: hacker: 11: member
+132: hacker: 12: member
+133: hacker: 12: landing: 1: 0
+134: serf: 20: started
+135: hacker: 11: landing: 1: 0
+136: serf: 11: landing: 1: 0
+137: serf: 12: landing: 1: 0
+138: serf: 13: waiting for boarding: 1: 1
+139: hacker: 14: waiting for boarding: 2: 1
+140: hacker: 15: waiting for boarding: 3: 1
+141: hacker: 16: waiting for boarding: 4: 1
+142: hacker: 15: boarding: 0: 1
+143: hacker: 13: boarding: 0: 1
+144: hacker: 16: boarding: 0: 1
+145: hacker: 14: boarding: 0: 1
+146: hacker: 13: member
+147: hacker: 14: member
+148: hacker: 16: captain
+149: hacker: 15: member
+150: hacker: 14: landing: 0: 1
+151: hacker: 16: landing: 0: 1
+152: hacker: 15: landing: 0: 1
+153: hacker: 13: landing: 0: 1
+154: hacker: 17: waiting for boarding: 1: 1
+155: serf: 14: waiting for boarding: 1: 2
+156: serf: 15: waiting for boarding: 1: 3
+157: serf: 16: waiting for boarding: 1: 4
+158: serf: 14: boarding: 1: 0
+159: serf: 15: boarding: 1: 0
+160: serf: 13: boarding: 1: 0
+161: serf: 16: boarding: 1: 0
+162: serf: 13: member
+163: serf: 15: member
+164: serf: 16: captain
+165: serf: 14: member
+166: serf: 16: landing: 1: 0
+167: serf: 15: landing: 1: 0
+168: serf: 13: landing: 1: 0
+169: serf: 14: landing: 1: 0
+170: hacker: 18: waiting for boarding: 2: 0
+171: serf: 17: waiting for boarding: 2: 1
+172: hacker: 19: waiting for boarding: 3: 1
+173: hacker: 20: waiting for boarding: 4: 1
+174: hacker: 20: boarding: 0: 1
+175: hacker: 18: boarding: 0: 1
+176: hacker: 17: boarding: 0: 1
+177: hacker: 19: boarding: 0: 1
+178: hacker: 19: member
+179: hacker: 18: member
+180: hacker: 20: captain
+181: hacker: 17: member
+182: hacker: 19: landing: 0: 1
+183: hacker: 17: landing: 0: 1
+184: hacker: 18: landing: 0: 1
+185: hacker: 20: landing: 0: 1
+186: serf: 18: waiting for boarding: 0: 2
+187: serf: 19: waiting for boarding: 0: 3
+188: serf: 20: waiting for boarding: 0: 4
+189: serf: 20: boarding: 0: 0
+190: serf: 18: boarding: 0: 0
+191: serf: 17: boarding: 0: 0
+192: serf: 19: boarding: 0: 0
+193: serf: 17: member
+194: serf: 19: member
+195: serf: 18: member
+196: serf: 20: captain
+197: serf: 20: landing: 0: 0
+198: serf: 19: landing: 0: 0
+199: serf: 18: landing: 0: 0
+200: serf: 17: landing: 0: 0
+201: serf: 20: finished
+202: serf: 2: finished
+203: serf: 1: finished
+204: serf: 3: finished
+205: hacker: 2: finished
+206: hacker: 5: finished
+207: serf: 4: finished
+208: serf: 6: finished
+209: hacker: 3: finished
+210: hacker: 4: finished
+211: hacker: 6: finished
+212: serf: 8: finished
+213: serf: 7: finished
+214: hacker: 7: finished
+215: hacker: 8: finished
+216: serf: 10: finished
+217: serf: 9: finished
+218: hacker: 10: finished
+219: hacker: 9: finished
+220: hacker: 12: finished
+221: serf: 11: finished
+222: serf: 12: finished
+223: hacker: 14: finished
+224: hacker: 11: finished
+225: hacker: 16: finished
+226: serf: 5: finished
+227: hacker: 15: finished
+228: hacker: 13: finished
+229: serf: 15: finished
+230: serf: 16: finished
+231: serf: 13: finished
+232: serf: 14: finished
+233: hacker: 18: finished
+234: hacker: 19: finished
+235: hacker: 17: finished
+236: serf: 19: finished
+237: hacker: 20: finished
+238: serf: 18: finished
+239: serf: 17: finished
+240: hacker: 1: finished
